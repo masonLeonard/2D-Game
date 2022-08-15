@@ -1,6 +1,3 @@
-# 2D-Game
-Two-dimensional fixed shooter, arcade style game.
-
  <br />Title: Event Horizon III
  <br />Platform: PC Standalone
  <br />Genre: Shoot’em up
